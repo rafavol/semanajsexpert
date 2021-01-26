@@ -1,1 +1,0 @@
-Projeto da semana JS Expert do Erick Wendel
